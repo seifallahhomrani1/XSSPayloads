@@ -1,0 +1,2 @@
+# XSSPayloads
+JS deliver XSS
